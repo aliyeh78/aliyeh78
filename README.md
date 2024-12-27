@@ -1,6 +1,6 @@
 # Hi, I'm Aliyeh Ansarian 👋  
 
-![Girl Programming](https://media.giphy.com/media/l2YWi5lWyN94HL4uY/giphy.gif)
+![Girl Programming]([https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnE0N25kNjdjMXhjMmpyN3Awc3hrajNvanllbjd1azl0OHczc2d0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif])
 
 🌟 **Front-End Developer | Angular Enthusiast**  
 🔹 **Building Scalable, Responsive Web Applications**  
