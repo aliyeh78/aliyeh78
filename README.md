@@ -1,10 +1,9 @@
 # Hi, I'm Aliyeh Ansarian 👋  
-
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnE0N25kNjdjMXhjMmpyN3Awc3hrajNvanllbjd1azl0OHczc2d0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" height="300" />
+<div style="display: flex; justify-content: space-between;">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnE0N25kNjdjMXhjMmpyN3Awc3hrajNvanllbjd1azl0OHczc2d0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" height="300" />
 <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="300" height="300" />
-
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXp4YzUyMmZtcmdqb3p3bm9sZHE2Ym9lb2t3ZXM2YmV5OTA2c21ybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ho8klqe5oPLa8g6BNe/giphy.gif" width="300" height="300" />
-
+</div>
 🌟 **Front-End Developer | Angular Enthusiast**  
 🔹 **Building Scalable, Responsive Web Applications**  
 🔹 **Specializing in Modern Angular Frameworks**  
