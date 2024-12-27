@@ -1,6 +1,6 @@
 # Hi, I'm Aliyeh Ansarian 👋  
 
-![Welcome Banner](https://via.placeholder.com/1200x300?text=Welcome+to+My+GitHub+Profile!)  
+![Welcome Banner](https://github.com/aliyeh78/your-repository-name/blob/main/assets/banner.gif)  
 
 🌟 **Front-End Developer | Angular Enthusiast**  
 🔹 **Building Scalable, Responsive Web Applications**  
@@ -12,7 +12,7 @@
 
 🎨 I love crafting seamless user experiences with Angular and leveraging the latest web technologies to build high-performing, scalable applications. My passion lies in writing clean, reusable code and collaborating with designers and backend teams to deliver impactful solutions.  
 
-![Coding GIF](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)  
+![Coding GIF](https://github.com/aliyeh78/your-repository-name/blob/main/assets/coding.gif)  
 
 ---
 
@@ -26,7 +26,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 
-![Skills GIF](https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif)  
+![Skills GIF](https://github.com/aliyeh78/your-repository-name/blob/main/assets/skills.gif)  
 
 ### **Tools & Utilities**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
@@ -47,7 +47,7 @@
 - Responsive design  
 - State management with Angular services  
 
-![To-Do App GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)  
+![To-Do App GIF](https://github.com/aliyeh78/your-repository-name/blob/main/assets/todo-app.gif)  
 🔗 **[Repository Link](https://github.com/aliyeh78)**  
 
 ---
@@ -59,7 +59,7 @@
 - Dynamic route integration  
 - Secure authentication flows  
 
-![Module Federation GIF](https://media.giphy.com/media/3o7aD5tv1ogNBtDhDi/giphy.gif)  
+![Module Federation GIF](https://github.com/aliyeh78/your-repository-name/blob/main/assets/module-federation.gif)  
 🔗 **[Repository Link](https://github.com/aliyeh78)**  
 
 ---
@@ -72,7 +72,7 @@
 - Smooth animations  
 - File upload integration  
 
-![Photo Editing GIF](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)  
+![Photo Editing GIF](https://github.com/aliyeh78/your-repository-name/blob/main/assets/photo-editing.gif)  
 🔗 **[Repository Link](https://github.com/aliyeh78)**  
 
 ---
