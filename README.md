@@ -1,5 +1,5 @@
 # Hi, I'm Aliyeh Ansarian 👋  
-![til](https://raw.githubusercontent.com/hashrocket/hr-til/master/app/assets/images/banner.png)
+![til](https://github.com/aliyeh78/your-repository-name/blob/main/assets/banner.gif)
 ![Welcome Banner](https://github.com/aliyeh78/your-repository-name/blob/main/assets/banner.gif)  
 
 🌟 **Front-End Developer | Angular Enthusiast**  
