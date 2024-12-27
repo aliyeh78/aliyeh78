@@ -1,6 +1,7 @@
 # Hi, I'm Aliyeh Ansarian 👋  
 
 ![Alt text](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnE0N25kNjdjMXhjMmpyN3Awc3hrajNvanllbjd1azl0OHczc2d0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)
+![Coder GIF](https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif)
 
 🌟 **Front-End Developer | Angular Enthusiast**  
 🔹 **Building Scalable, Responsive Web Applications**  
