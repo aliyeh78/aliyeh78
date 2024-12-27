@@ -3,6 +3,7 @@
 ![Alt text](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnE0N25kNjdjMXhjMmpyN3Awc3hrajNvanllbjd1azl0OHczc2d0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)
 ![Coder GIF](https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif)
 ![Coder GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXp4YzUyMmZtcmdqb3p3bm9sZHE2Ym9lb2t3ZXM2YmV5OTA2c21ybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ho8klqe5oPLa8g6BNe/giphy.gif)
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXp4YzUyMmZtcmdqb3p3bm9sZHE2Ym9lb2t3ZXM2YmV5OTA2c21ybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ho8klqe5oPLa8g6BNe/giphy.gif" width="300" height="300" />
 
 🌟 **Front-End Developer | Angular Enthusiast**  
 🔹 **Building Scalable, Responsive Web Applications**  
